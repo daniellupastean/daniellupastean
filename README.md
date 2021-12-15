@@ -6,11 +6,9 @@
 <div style="display: flex; justify-content:center">
 <div>
 
-    🔭 I’m currently working on **ImageVerse**
+    🔭 I’m currently working on ImageVerse
 
-    🌱 I’m currently learning **Docker and Redis**
-
-    📫 You can reach me on **lupasteandaniell1@gmail.com**
+    🌱 I’m currently learning Docker and Redis
 
 </div>
 </div>
