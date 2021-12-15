@@ -6,7 +6,7 @@
 <p align="center">
     🚀 I’m currently working on <b>ImageVerse</b> and I'm learning <b>Docker</b>
 </p>
-<br>
+
 <hr>
 <h3 align="center">Languages and Tools I use:</h3>
 
