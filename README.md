@@ -17,9 +17,7 @@
 
 <hr>
 <h3 align="center">Stats:</h3>
-<div style="display:flex; justify-content: center">
-<span><img style="height:160px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=daniellupastean&show_icons=true&locale=en&layout=compact" alt="daniellupastean" /></span>
 
-<span >&nbsp;<img style="height:160px" align="center" src="https://github-readme-stats.vercel.app/api?username=daniellupastean&show_icons=true&locale=en" alt="daniellupastean" /></span>
+<span><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=daniellupastean&show_icons=true&locale=en&layout=compact" alt="daniellupastean" /></span>
 
-</div>
+<span >&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=daniellupastean&show_icons=true&locale=en" alt="daniellupastean" /></span>
