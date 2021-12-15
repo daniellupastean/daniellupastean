@@ -18,6 +18,6 @@
 <hr>
 <h3 align="center">Stats:</h3>
 
-<span><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=daniellupastean&show_icons=true&locale=en&layout=compact" alt="daniellupastean" /></span>
-
-<span >&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=daniellupastean&show_icons=true&locale=en" alt="daniellupastean" /></span>
+<center>
+<span ><img align=center  src="https://github-readme-stats.vercel.app/api/top-langs?username=daniellupastean&show_icons=true&locale=en&layout=compact" alt="daniellupastean" /></span>
+</center>
