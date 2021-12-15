@@ -3,13 +3,9 @@
 <br>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daniellupastean&row=2&column=3" alt="daniellupastean" /></a> </p>
 
-<div style="display: flex; justify-content:center">
-<div>
-
-    🔭 I’m currently working on ImageVerse and I'm learning Docker
-
-</div>
-</div>
+<p align="center">
+    🚀 I’m currently working on <b>ImageVerse</b> and I'm learning <b>Docker</b>
+</p>
 <hr>
 <h3 align="center">Languages and Tools:</h3>
 
