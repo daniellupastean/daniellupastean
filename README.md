@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Daniel Lupaștean</h1>
 <h3 align="center">Full-Stack Software Engineer</h3>
 <br>
-<center>
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="center" alt="Computador">
-</center>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="300px" align="center" alt="Computador">
+</p>
 <!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daniellupastean&row=2&column=3" alt="daniellupastean" /></a> </p> -->
 
 <p align="center">
