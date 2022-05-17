@@ -8,7 +8,7 @@
 <!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daniellupastean&row=2&column=3" alt="daniellupastean" /></a> </p> -->
 
 <p align="center">
-    🚀 I’m currently working on <b>ImageVerse</b> and I'm learning <b>Docker</b>
+    🚀 I’m currently working on some faculty projects and I'm learning <b>Docker</b>
 </p>
 
 <hr>
