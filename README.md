@@ -8,18 +8,17 @@
 <br>
 <hr>
 <p>
-    I build software from database to UI. My main focus is backend development, but I also work with frontend and design when needed. I value clean, maintainable code and enjoy collaborating with others to ship useful products.
+    I build software from database to UI. My main focus is backend engineering, but I also work with frontend and design when needed. I value clean, maintainable code and enjoy collaborating with others to ship useful products.
 </p>
 
 <hr>
 
 <h3>Technologies I work with</h3>
 
-- Typescript, PHP, Kotlin  
-- NestJS, Symfony, React  
-- PostgreSQL, MySQL  
+- Typescript, Javascript
+- NodeJS, React  
+- PostgreSQL, MySQL
 - AWS, Kubernetes, Docker  
-- GitLab CI/CD  
-- Figma
+- Figma, Draw.io, Excalidraw
 
 <hr>
